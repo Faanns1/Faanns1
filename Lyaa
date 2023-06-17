@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Faanns1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Lyaacuuu ...
-
-<!---
-Faanns1/Faanns1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+  <body>
+    <h1>Haii Lyaacuu</h1>
+    <img
+      src="https://media .tenor.com /tgGQRiUXIYYAAAAC/love-u-love-u.gif"
+      width="300"
+    />
+    <h1>Mau gak jadi pacar paans?</h1>
+    <button onclick="alert('I LOVE YOU')">Mau dong!</button>
+    <button onclick="alert('YAUDAH GAPAPA')">Gamau</button>
+  </body>
+</html>
