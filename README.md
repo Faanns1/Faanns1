@@ -36,13 +36,13 @@
   <a href="mailto:ardiansyahfarhan248@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="mailto:farhanrdiansyah@students.amikom.ac.id"><img src="https://img.shields.io/badge/Amikom%20Mail-purple?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/frhnardns_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://tiktok.com/@Fans_"><img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white" /></a>
+  <a href="https://tiktok.com/@_fannsl"><img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
 
 ## ✨ Fun Corner
-> *"Design is intelligence made visible."* – Alina Wheeler
+> *"Codding senyaman itu."* – Farhan Ardiansyah
 
 <p align="center">
   <img src="https://random-memer.herokuapp.com/" width="300" />
