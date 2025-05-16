@@ -36,11 +36,6 @@
 ## ✨ Fun Corner
 > *"Codding senyaman itu."* – Farhan Ardiansyah
 
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="300" />
-</p>
 
 ### 🎯 Terima kasih sudah berkunjung ke profil saya!
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="350" />
-</p>
+
