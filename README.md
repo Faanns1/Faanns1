@@ -1,46 +1,49 @@
-<h1 align="center">Hi 👋, I'm Farhan Ardiansyah</h1>
-<h3 align="center">Mahasiswa Informatika | UI/UX Designer | Frontend Developer</h3>
+<!-- PROFIL HEADER -->
+<h1 align="center">Hey there 👋, I'm Farhan Ardiansyah</h1>
+<h3 align="center">💻 Informatics Student | 🎨 UI/UX Designer | 🧠 Frontend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Frontend+Dev+%7C+UI%2FUX+Designer;Selalu+Profesional+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Frontend+Dev+%2F+UI%2FUX+Designer;Design.+Code.+Create." alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 Saat ini saya sedang fokus membuat **project web**
-- 🎨 Tertarik pada bidang **UI/UX dan pengembangan frontend**
-- 💻 Skill utama: **HTML, CSS, Figma**
-- 📫 Kontak saya:  
-  - ✉️ ardiansyahfarhan248@gmail.com  
-  - 🎓 farhanrdiansyah@students.amikom.ac.id  
-  - 📷 Instagram: [@frhnardns_](https://instagram.com/frhnardns_)  
-  - 🎵 TikTok: [@Fans_](https://tiktok.com/@Fans_)
-
-- ⚡ Fun fact: *Selalu profesional di segala urusan*
+## 🚀 About Me
+🎓 I’m a passionate Informatics student at **Universitas Amikom Yogyakarta**  
+🎨 UI/UX enthusiast & Frontend lover with attention to detail  
+💼 Currently building web-based projects and sharpening design skills  
+📌 Motto: *"Selalu profesional di segala urusan."*
 
 ---
 
-### 🛠️ Tools & Tech:
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,figma" />
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,figma,github,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats:
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanrdiansyah&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanrdiansyah&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanrdiansyah&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanrdiansyah&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 💬 Quotes
-> *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+## 🌐 Let's Connect
+<p align="center">
+  <a href="mailto:ardiansyahfarhan248@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:farhanrdiansyah@students.amikom.ac.id"><img src="https://img.shields.io/badge/Amikom%20Mail-purple?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/frhnardns_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@Fans_"><img src="https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🎯 Terima kasih sudah berkunjung ke profil saya!
+## ✨ Fun Corner
+> *"Design is intelligence made visible."* – Alina Wheeler
+
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="350" />
+  <img src="https://random-memer.herokuapp.com/" width="300" />
 </p>
