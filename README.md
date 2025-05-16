@@ -23,14 +23,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanrdiansyah&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanrdiansyah&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 <p align="center">
   <a href="mailto:ardiansyahfarhan248@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -46,4 +38,9 @@
 
 <p align="center">
   <img src="https://random-memer.herokuapp.com/" width="300" />
+</p>
+
+### 🎯 Terima kasih sudah berkunjung ke profil saya!
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="350" />
 </p>
