@@ -33,9 +33,5 @@
 
 ---
 
-## ✨ Fun Corner
-> *"Codding senyaman itu."* – Farhan Ardiansyah
-
-
 ### 🎯 Terima kasih sudah berkunjung ke profil saya!
 
